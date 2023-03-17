@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "lite-server",
+    "start": "start lite-server",
     "api": "hai-server --watch database.json --port 8000"
   },
   "keywords": [],
